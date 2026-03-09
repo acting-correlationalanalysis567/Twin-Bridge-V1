@@ -1,0 +1,24 @@
+{
+  "name": "twinbridge-electron",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:mac": "electron-builder --mac",
+    "build:win": "electron-builder --win",
+    "build:linux": "electron-builder --linux"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^29.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "dev.twinbridge.desktop",
+    "productName": "TwinBridge",
+    "files": ["src/**/*", "renderer/**/*", "node_modules/**/*"],
+    "extraResources": [{ "from": "../backend", "to": "backend", "filter": ["**/*", "!node_modules"] }],
+    "mac": { "category": "public.app-category.developer-tools", "titleBarStyle": "hiddenInset" },
+    "directories": { "output": "../dist" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "twinbridge",
+  "version": "1.0.0",
+  "description": "TwinBridge — API digital twin manager",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n BACK,FRONT,ELEC -c cyan,magenta,yellow \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\" \"npm run start --prefix electron\"",
+    "backend": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "electron": "npm run start --prefix electron"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

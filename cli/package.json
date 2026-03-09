@@ -1,0 +1,8 @@
+{
+  "name": "twinbridge-cli",
+  "version": "1.0.0",
+  "description": "TwinBridge CLI — manage API twins from the terminal",
+  "bin": { "twin": "./src/index.js" },
+  "scripts": { "start": "node src/index.js" },
+  "dependencies": {}
+}
